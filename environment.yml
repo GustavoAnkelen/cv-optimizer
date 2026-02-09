@@ -1,0 +1,15 @@
+name: cv-optimizer
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - openai
+      - python-dotenv
+      - pypdf
+      - python-docx
+      - tiktoken
+      - requests
+      - pandas
+      - polars

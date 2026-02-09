@@ -1,13 +1,25 @@
-<!-- README.md -->
 # CV Optimizer 🚀
 
-**Optimiza tu CV LaTeX/PDF para trabajos específicos usando IA**
+**Optimiza tu CV en LaTeX o PDF para trabajos específicos usando Inteligencia Artificial.**
 
-## Features
-- 📄 Lee archivos PDF y LaTeX
-- 🤖 Integración con múltiples LLMs
-- 🎯 Adapta CVs a descripciones de trabajo
+CV Optimizer permite leer tu CV, analizar una descripción de trabajo y generar una versión optimizada utilizando modelos LLM como OpenAI.
 
-## Instalación
+---
+
+## ✨ Features
+
+- 📄 Lee archivos PDF, TXT y LaTeX  
+- 🤖 Integración con modelos LLM (OpenAI)  
+- 🎯 Adapta CVs a descripciones de trabajo  
+- 💻 Interfaz por línea de comandos (CLI)  
+- 📦 Proyecto empaquetado con estructura profesional  
+
+---
+
+## 📦 Instalación
+
+### Clonar repositorio
+
 ```bash
-pip install cv-optimizer
+git clone https://github.com/GustavoAnkelen/cv-optimizer.git
+cd cv-optimizer
